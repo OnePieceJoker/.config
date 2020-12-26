@@ -1,0 +1,28 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/whoami/workspace/typescript/jokerh5
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :docs/notes.md
+> git ls-files --stage -- /home/whoami/workspace/typescript/jokerh5/docs/notes.md
+> git cat-file -s ac393eba2c22235d3d3a699d2bcec0f4780db48d
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/whoami/workspace/typescript/jokerh5/docs/notes.md
+> git cat-file -s ac393eba2c22235d3d3a699d2bcec0f4780db48d
+> git show --textconv :docs/notes.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

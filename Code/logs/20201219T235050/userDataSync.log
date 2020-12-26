@@ -1,0 +1,273 @@
+[2020-12-19 23:50:54.185] [userDataSync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2020-12-19 23:50:54.185] [userDataSync] [info] Auto Sync is disabled.
+[2020-12-19 23:55:58.411] [userDataSync] [info] Did reset the local sync state.
+[2020-12-19 23:55:58.954] [userDataSync] [info] Did reset the local sync state.
+[2020-12-19 23:55:58.956] [userDataSync] [info] Settings: Skipped synchronizing settings as it is running already.
+[2020-12-19 23:55:59.117] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:55:59.151] [userDataSync] [info] Snippets: Skipped synchronizing snippets as it is running already.
+[2020-12-19 23:55:59.291] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:55:59.577] [userDataSync] [info] Settings: Updated local settings
+[2020-12-19 23:55:59.579] [userDataSync] [info] Settings: Updated last synchronized settings
+[2020-12-19 23:55:59.584] [userDataSync] [info] Snippets: Created snippet java.json
+[2020-12-19 23:55:59.586] [userDataSync] [info] Snippets: Updated last synchronized snippets
+[2020-12-19 23:56:00.236] [userDataSync] [info] Extensions: Enabled extension abusaidm.html-snippets 0.2.1
+[2020-12-19 23:56:00.274] [userDataSync] [info] Extensions: Enabled extension dart-code.flutter 3.17.0
+[2020-12-19 23:56:00.598] [userDataSync] [info] Extensions: Enabled extension equinusocio.vsc-community-material-theme 1.4.2
+[2020-12-19 23:56:00.613] [userDataSync] [info] Extensions: Enabled extension solarliner.linux-themes 1.0.1
+[2020-12-19 23:56:00.618] [userDataSync] [info] Extensions: Enabled extension fknop.vscode-npm 3.3.0
+[2020-12-19 23:56:00.623] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-spring-initializr 0.6.1
+[2020-12-19 23:56:00.626] [userDataSync] [info] Extensions: Enabled extension debian001.app-migrator 0.0.6
+[2020-12-19 23:56:00.630] [userDataSync] [info] Extensions: Enabled extension rokoroku.vscode-theme-darcula 1.2.3
+[2020-12-19 23:56:00.633] [userDataSync] [info] Extensions: Enabled extension ms-toolsai.jupyter 2020.12.414227025
+[2020-12-19 23:56:00.635] [userDataSync] [info] Extensions: Enabled extension summersun.vscode-jetty 0.1.11
+[2020-12-19 23:56:00.637] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-test 0.26.1
+[2020-12-19 23:56:00.640] [userDataSync] [info] Extensions: Enabled extension pkief.material-icon-theme 4.4.0
+[2020-12-19 23:56:00.806] [userDataSync] [info] Extensions: Enabled extension adashen.vscode-tomcat 0.11.3
+[2020-12-19 23:56:00.809] [userDataSync] [info] Extensions: Enabled extension gabrielbb.vscode-lombok 1.0.1
+[2020-12-19 23:56:00.812] [userDataSync] [info] Extensions: Enabled extension github.github-vscode-theme 1.1.5
+[2020-12-19 23:56:00.816] [userDataSync] [info] Extensions: Enabled extension redhat.vscode-xml 0.14.0
+[2020-12-19 23:56:00.821] [userDataSync] [info] Extensions: Enabled extension ms-python.vscode-pylance 2020.12.2
+[2020-12-19 23:56:00.825] [userDataSync] [info] Extensions: Enabled extension justjavac.vscode-deno 1.34.0
+[2020-12-19 23:56:00.827] [userDataSync] [info] Extensions: Enabled extension equinusocio.vsc-material-theme-icons 1.2.0
+[2020-12-19 23:56:00.830] [userDataSync] [info] Extensions: Enabled extension rust-lang.rust 0.7.8
+[2020-12-19 23:56:00.832] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-debug 0.30.0
+[2020-12-19 23:56:00.835] [userDataSync] [info] Extensions: Enabled extension ecmel.vscode-html-css 1.2.1
+[2020-12-19 23:56:00.839] [userDataSync] [info] Extensions: Enabled extension ms-vscode-remote.remote-wsl 0.52.0
+[2020-12-19 23:56:00.841] [userDataSync] [info] Extensions: Enabled extension dotjoshjohnson.xml 2.5.1
+[2020-12-19 23:56:00.844] [userDataSync] [info] Extensions: Enabled extension pivotal.vscode-spring-boot 1.24.0
+[2020-12-19 23:56:00.845] [userDataSync] [info] Extensions: Enabled extension xabikos.javascriptsnippets 1.8.0
+[2020-12-19 23:56:00.847] [userDataSync] [info] Extensions: Enabled extension dbaeumer.vscode-eslint 2.1.14
+[2020-12-19 23:56:00.850] [userDataSync] [info] Extensions: Enabled extension davidanson.vscode-markdownlint 0.38.0
+[2020-12-19 23:56:00.852] [userDataSync] [info] Extensions: Enabled extension donjayamanne.githistory 0.6.14
+[2020-12-19 23:56:00.854] [userDataSync] [info] Extensions: Enabled extension eg2.tslint 1.0.44
+[2020-12-19 23:56:00.856] [userDataSync] [info] Extensions: Enabled extension equinusocio.vsc-material-theme 33.1.2
+[2020-12-19 23:56:00.858] [userDataSync] [info] Extensions: Enabled extension dart-code.dart-code 3.17.1
+[2020-12-19 23:56:00.863] [userDataSync] [info] Extensions: Enabled extension ms-azuretools.vscode-docker 1.9.0
+[2020-12-19 23:56:00.865] [userDataSync] [info] Extensions: Enabled extension formulahendry.code-runner 0.11.1
+[2020-12-19 23:56:00.866] [userDataSync] [info] Extensions: Enabled extension golang.go 0.19.1
+[2020-12-19 23:56:00.868] [userDataSync] [info] Extensions: Enabled extension ms-vscode-remote.remote-containers 0.154.1
+[2020-12-19 23:56:00.870] [userDataSync] [info] Extensions: Enabled extension octref.vetur 0.31.3
+[2020-12-19 23:56:00.871] [userDataSync] [info] Extensions: Enabled extension esbenp.prettier-vscode 5.8.0
+[2020-12-19 23:56:00.872] [userDataSync] [info] Extensions: Enabled extension shengchen.vscode-checkstyle 1.3.3
+[2020-12-19 23:56:00.873] [userDataSync] [info] Extensions: Enabled extension qiu8310.minapp-vscode 2.2.2
+[2020-12-19 23:56:00.874] [userDataSync] [info] Extensions: Enabled extension tinkertrain.theme-panda 1.3.0
+[2020-12-19 23:56:00.875] [userDataSync] [info] Extensions: Enabled extension redhat.java 0.73.0
+[2020-12-19 23:56:00.876] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-pack 0.12.1
+[2020-12-19 23:56:00.876] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-java-dependency 0.16.0
+[2020-12-19 23:56:00.877] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-spring-boot-dashboard 0.2.0
+[2020-12-19 23:56:00.879] [userDataSync] [info] Extensions: Enabled extension gruntfuggly.todo-tree 0.0.192
+[2020-12-19 23:56:00.881] [userDataSync] [info] Extensions: Enabled extension richardwillis.vscode-gradle 3.5.2
+[2020-12-19 23:56:00.884] [userDataSync] [info] Extensions: Enabled extension tabnine.tabnine-vscode 3.1.18
+[2020-12-19 23:56:00.886] [userDataSync] [info] Extensions: Enabled extension visualstudioexptteam.vscodeintellicode 1.2.10
+[2020-12-19 23:56:00.887] [userDataSync] [info] Extensions: Enabled extension vscjava.vscode-maven 0.27.0
+[2020-12-19 23:56:00.889] [userDataSync] [info] Extensions: Enabled extension shan.code-settings-sync 3.4.3
+[2020-12-19 23:56:00.890] [userDataSync] [info] Extensions: Enabled extension ant-design-vue.vscode-ant-design-vue-helper 1.0.6
+[2020-12-19 23:56:00.983] [userDataSync] [info] Extensions: Enabled extension msjsdiag.debugger-for-chrome 4.12.11
+[2020-12-19 23:56:00.996] [userDataSync] [info] Extensions: Enabled extension ms-python.python 2020.12.424452561
+[2020-12-19 23:56:01.004] [userDataSync] [info] Extensions: Enabled extension vscode-icons-team.vscode-icons 11.0.0
+[2020-12-19 23:56:01.025] [userDataSync] [info] Extensions: Enabled extension eamodio.gitlens 11.0.6
+[2020-12-19 23:56:01.033] [userDataSync] [info] Extensions: Enabled extension vscodevim.vim 1.18.5
+[2020-12-19 23:56:01.332] [userDataSync] [info] Extensions: Installed extension. dart-code.flutter 3.17.0
+[2020-12-19 23:56:02.114] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-spring-initializr 0.6.1
+[2020-12-19 23:56:02.437] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-dependency 0.16.0
+[2020-12-19 23:56:02.477] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-pack 0.12.1
+[2020-12-19 23:56:02.774] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-test 0.26.1
+[2020-12-19 23:56:02.787] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-spring-boot-dashboard 0.2.0
+[2020-12-19 23:56:02.880] [userDataSync] [info] Extensions: Installed extension. fknop.vscode-npm 3.3.0
+[2020-12-19 23:56:02.886] [userDataSync] [info] Extensions: Installed extension. rokoroku.vscode-theme-darcula 1.2.3
+[2020-12-19 23:56:02.983] [userDataSync] [info] Extensions: Installed extension. github.github-vscode-theme 1.1.5
+[2020-12-19 23:56:03.026] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.30.0
+[2020-12-19 23:56:03.045] [userDataSync] [info] Extensions: Installed extension. ecmel.vscode-html-css 1.2.1
+[2020-12-19 23:56:03.562] [userDataSync] [info] Extensions: Installed extension. dbaeumer.vscode-eslint 2.1.14
+[2020-12-19 23:56:03.653] [userDataSync] [info] Extensions: Installed extension. davidanson.vscode-markdownlint 0.38.0
+[2020-12-19 23:56:03.729] [userDataSync] [info] Extensions: Installed extension. pkief.material-icon-theme 4.4.0
+[2020-12-19 23:56:03.771] [userDataSync] [info] Extensions: Installed extension. rust-lang.rust 0.7.8
+[2020-12-19 23:56:04.011] [userDataSync] [info] Extensions: Installed extension. eg2.tslint 1.0.44
+[2020-12-19 23:56:04.030] [userDataSync] [info] Extensions: Installed extension. debian001.app-migrator 0.0.6
+[2020-12-19 23:56:04.253] [userDataSync] [info] Extensions: Installed extension. xabikos.javascriptsnippets 1.8.0
+[2020-12-19 23:56:04.497] [userDataSync] [info] Extensions: Installed extension. ms-vscode-remote.remote-wsl 0.52.0
+[2020-12-19 23:56:04.917] [userDataSync] [info] Extensions: Installed extension. formulahendry.code-runner 0.11.1
+[2020-12-19 23:56:05.071] [userDataSync] [info] Extensions: Installed extension. equinusocio.vsc-community-material-theme 1.4.2
+[2020-12-19 23:56:05.185] [userDataSync] [info] Extensions: Installed extension. donjayamanne.githistory 0.6.14
+[2020-12-19 23:56:05.249] [userDataSync] [info] Extensions: Installed extension. dart-code.dart-code 3.17.1
+[2020-12-19 23:56:05.393] [userDataSync] [info] Extensions: Installed extension. gruntfuggly.todo-tree 0.0.192
+[2020-12-19 23:56:05.833] [userDataSync] [info] Extensions: Skipped synchronizing extensions as it is running already.
+[2020-12-19 23:56:06.138] [userDataSync] [info] Extensions: Installed extension. ms-vscode-remote.remote-containers 0.154.1
+[2020-12-19 23:56:06.188] [userDataSync] [info] Extensions: Installed extension. shan.code-settings-sync 3.4.3
+[2020-12-19 23:56:06.315] [userDataSync] [info] Extensions: Installed extension. golang.go 0.19.1
+[2020-12-19 23:56:06.512] [userDataSync] [info] Extensions: Installed extension. equinusocio.vsc-material-theme-icons 1.2.0
+[2020-12-19 23:56:07.094] [userDataSync] [info] Extensions: Installed extension. equinusocio.vsc-material-theme 33.1.2
+[2020-12-19 23:56:07.132] [userDataSync] [info] Extensions: Installed extension. abusaidm.html-snippets 0.2.1
+[2020-12-19 23:56:07.339] [userDataSync] [info] Extensions: Installed extension. tinkertrain.theme-panda 1.3.0
+[2020-12-19 23:56:07.446] [userDataSync] [info] Extensions: Installed extension. eamodio.gitlens 11.0.6
+[2020-12-19 23:56:07.836] [userDataSync] [info] Extensions: Installed extension. vscodevim.vim 1.18.5
+[2020-12-19 23:56:07.958] [userDataSync] [info] Extensions: Installed extension. ant-design-vue.vscode-ant-design-vue-helper 1.0.6
+[2020-12-19 23:56:08.897] [userDataSync] [info] Extensions: Installed extension. vscjava.vscode-maven 0.27.0
+[2020-12-19 23:56:09.088] [userDataSync] [info] Extensions: Installed extension. dotjoshjohnson.xml 2.5.1
+[2020-12-19 23:56:09.634] [userDataSync] [info] Extensions: Installed extension. ms-azuretools.vscode-docker 1.9.0
+[2020-12-19 23:56:10.717] [userDataSync] [info] Extensions: Installed extension. msjsdiag.debugger-for-chrome 4.12.11
+[2020-12-19 23:56:10.976] [userDataSync] [info] Extensions: Installed extension. solarliner.linux-themes 1.0.1
+[2020-12-19 23:56:11.332] [userDataSync] [info] Extensions: Installed extension. qiu8310.minapp-vscode 2.2.2
+[2020-12-19 23:56:11.740] [userDataSync] [info] Extensions: Installed extension. vscode-icons-team.vscode-icons 11.0.0
+[2020-12-19 23:56:15.569] [userDataSync] [info] Extensions: Installed extension. shengchen.vscode-checkstyle 1.3.3
+[2020-12-19 23:56:16.072] [userDataSync] [info] Extensions: Installed extension. esbenp.prettier-vscode 5.8.0
+[2020-12-19 23:56:16.844] [userDataSync] [info] Extensions: Installed extension. summersun.vscode-jetty 0.1.11
+[2020-12-19 23:56:17.927] [userDataSync] [info] Extensions: Installed extension. ms-python.python 2020.12.424452561
+[2020-12-19 23:56:18.088] [userDataSync] [info] Extensions: Installed extension. adashen.vscode-tomcat 0.11.3
+[2020-12-19 23:56:21.769] [userDataSync] [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.2.10
+[2020-12-19 23:56:22.161] [userDataSync] [info] Extensions: Installed extension. ms-toolsai.jupyter 2020.12.414227025
+[2020-12-19 23:56:23.303] [userDataSync] [info] Extensions: Installed extension. richardwillis.vscode-gradle 3.5.2
+[2020-12-19 23:56:25.309] [userDataSync] [info] Extensions: Installed extension. tabnine.tabnine-vscode 3.1.18
+[2020-12-19 23:56:25.368] [userDataSync] [info] Extensions: Installed extension. redhat.vscode-xml 0.14.0
+[2020-12-19 23:56:25.459] [userDataSync] [info] Extensions: Installed extension. justjavac.vscode-deno 1.34.0
+[2020-12-19 23:56:27.457] [userDataSync] [info] Extensions: Installed extension. ms-python.vscode-pylance 2020.12.2
+[2020-12-19 23:56:27.777] [userDataSync] [info] Extensions: Installed extension. pivotal.vscode-spring-boot 1.24.0
+[2020-12-19 23:56:28.742] [userDataSync] [info] Extensions: Installed extension. octref.vetur 0.31.3
+[2020-12-19 23:56:30.122] [userDataSync] [info] Extensions: Installed extension. redhat.java 0.73.0
+[2020-12-19 23:56:30.880] [userDataSync] [info] Extensions: Installed extension. gabrielbb.vscode-lombok 1.0.1
+[2020-12-19 23:56:30.883] [userDataSync] [info] Extensions: Updated last synchronized extensions
+[2020-12-19 23:56:30.896] [userDataSync] [info] Auto Sync: Started
+[2020-12-19 23:56:30.897] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-19 23:56:31.679] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-19 23:56:31.680] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:56:31.684] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-19 23:56:31.684] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:56:31.727] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-19 23:56:31.728] [userDataSync] [info] Sync done. Took 109ms
+[2020-12-19 23:56:33.779] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-19 23:56:33.979] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-19 23:56:33.980] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:56:33.981] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-19 23:56:33.981] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:56:34.024] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-19 23:56:34.026] [userDataSync] [info] Sync done. Took 59ms
+[2020-12-19 23:56:40.176] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-19 23:56:40.678] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-19 23:56:40.679] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:56:40.680] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-19 23:56:40.680] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:56:40.729] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-19 23:56:40.729] [userDataSync] [info] Sync done. Took 70ms
+[2020-12-19 23:57:36.171] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-19 23:57:36.692] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-19 23:57:36.693] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:57:36.694] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-19 23:57:36.695] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:57:36.757] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-19 23:57:36.757] [userDataSync] [info] Sync done. Took 97ms
+[2020-12-19 23:57:50.943] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-19 23:57:51.141] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-19 23:57:51.142] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-19 23:57:51.143] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-19 23:57:51.143] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-19 23:57:51.189] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-19 23:57:51.190] [userDataSync] [info] Sync done. Took 61ms
+[2020-12-20 00:02:51.190] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:02:51.889] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:02:51.889] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:02:51.890] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:02:51.891] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:02:51.941] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:02:51.941] [userDataSync] [info] Sync done. Took 85ms
+[2020-12-20 00:03:14.294] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:03:14.484] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:03:14.485] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:03:14.486] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:03:14.486] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:03:14.528] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:03:14.531] [userDataSync] [info] Sync done. Took 58ms
+[2020-12-20 00:03:44.180] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:03:44.388] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:03:44.389] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:03:44.390] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:03:44.390] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:03:44.442] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:03:44.443] [userDataSync] [info] Sync done. Took 86ms
+[2020-12-20 00:03:45.349] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:03:45.552] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:03:45.553] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:03:45.555] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:03:45.556] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:03:45.604] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:03:45.604] [userDataSync] [info] Sync done. Took 82ms
+[2020-12-20 00:03:54.520] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:03:54.705] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:03:54.706] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:03:54.707] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:03:54.707] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:03:54.747] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:03:54.747] [userDataSync] [info] Sync done. Took 48ms
+[2020-12-20 00:05:28.099] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:05:28.587] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:05:28.588] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:05:28.589] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:05:28.589] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:05:28.632] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:05:28.632] [userDataSync] [info] Sync done. Took 53ms
+[2020-12-20 00:05:39.875] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:05:40.056] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:05:40.056] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:05:40.057] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:05:40.058] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:05:40.098] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:05:40.098] [userDataSync] [info] Sync done. Took 52ms
+[2020-12-20 00:10:40.098] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:10:40.707] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:10:40.709] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:10:40.710] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:10:40.711] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:10:40.766] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:10:40.766] [userDataSync] [info] Sync done. Took 72ms
+[2020-12-20 00:15:40.767] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:15:41.384] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:15:41.384] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:15:41.385] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:15:41.385] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:15:41.440] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:15:41.440] [userDataSync] [info] Sync done. Took 80ms
+[2020-12-20 00:20:41.440] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:20:42.170] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:20:42.171] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:20:42.172] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:20:42.172] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:20:42.221] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:20:42.221] [userDataSync] [info] Sync done. Took 62ms
+[2020-12-20 00:25:42.222] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:25:42.880] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:25:42.881] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:25:42.882] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:25:42.882] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:25:42.925] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:25:42.925] [userDataSync] [info] Sync done. Took 62ms
+[2020-12-20 00:30:42.926] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:30:43.959] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:30:43.960] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:30:43.961] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:30:43.961] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:30:44.015] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:30:44.016] [userDataSync] [info] Sync done. Took 77ms
+[2020-12-20 00:35:44.016] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:35:44.760] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:35:44.762] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:35:44.763] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:35:44.764] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:35:44.818] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:35:44.819] [userDataSync] [info] Sync done. Took 77ms
+[2020-12-20 00:40:44.819] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2020-12-20 00:40:45.383] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:40:45.384] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:40:45.385] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:40:45.385] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:40:45.440] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:40:45.440] [userDataSync] [info] Sync done. Took 81ms
+[2020-12-20 00:44:28.808] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2020-12-20 00:44:29.423] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2020-12-20 00:44:29.425] [userDataSync] [info] Keybindings: Skipped synchronizing keybindings as it is running already.
+[2020-12-20 00:44:29.426] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2020-12-20 00:44:29.426] [userDataSync] [info] GlobalState: Skipped synchronizing globalstate as it is running already.
+[2020-12-20 00:44:29.481] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2020-12-20 00:44:29.482] [userDataSync] [info] Sync done. Took 72ms
+[2020-12-20 00:44:32.943] [userDataSync] [info] Keybindings: Stopped synchronizing keybindings.
+[2020-12-20 00:44:32.944] [userDataSync] [info] GlobalState: Stopped synchronizing globalstate.
+[2020-12-20 00:44:34.923] [userDataSync] [info] Auto Sync: Suspended until auth token is available.
+[2020-12-20 00:44:34.923] [userDataSync] [info] Auto Sync: Stopped

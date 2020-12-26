@@ -1,0 +1,2 @@
+[2020-12-20 15:38:48.853] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/whoami/workspace/typescript/jokerh5/.vscode'
+[2020-12-20 15:38:50.444] [renderer1] [error] ENOENT: no such file or directory, open '/root/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/root/.config/Code/User/globalStorage/vscodevim.vim/.registers'
