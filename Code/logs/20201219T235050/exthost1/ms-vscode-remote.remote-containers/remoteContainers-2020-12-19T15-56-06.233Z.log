@@ -1,7 +1,0 @@
-[2020-12-19T15:56:06.238Z] [PID 4622] [5 ms] Remote-Containers 0.154.1 in VS Code 1.52.1 (ea3859d4ba2f3e577a159bc91e3074c5d85c0523).
-[2020-12-19T16:03:41.316Z] [PID 4622] [455082 ms] Start: Run: docker version --format {{.Server.APIVersion}}
-[2020-12-19T16:03:41.363Z] [PID 4622] [455130 ms] 1.41
-[2020-12-19T16:03:41.365Z] [PID 4622] [455132 ms] Start: Run: docker -v
-[2020-12-19T16:03:41.394Z] [PID 4622] [455161 ms] Start: Run: docker events --format {{json .}} --filter event=create --filter event=destroy --filter event=die --filter event=health-status --filter event=kill --filter event=pause --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=update --filter event=exec_create
-[2020-12-19T16:03:41.399Z] [PID 4622] [455166 ms] Start: Run: docker ps -q -a
-[2020-12-19T16:03:41.431Z] [PID 4622] [455198 ms] Start: Run: docker inspect --type container 3b3b17456d79 a471523b5d13 3cc81d56347c 29f1ee7f17f0 50ae3ceebbb3 e953c524424e 1a00228a30d5 941386bff1ae 8cb613dc6609 1ba80a2286bf 515daf11a3a6 3d34fa96fef2 1eb479a3435d 605b38aa2aa7 d10e7ba929d7 1b2191755489 d05f1f6ca9ab c671dcb4400c 79ad8fc00e70 7b5480381759 d26c182bb483 55da24d8073c e7e184e8dd75 a2cf18237bcc
