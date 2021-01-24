@@ -1,0 +1,64 @@
+00:00:00.000171 main     VirtualBox XPCOM Server 6.1.16 r140961 linux.amd64 (Nov 10 2020 10:11:31) release log
+00:00:00.000172 main     Log opened 2021-01-05T13:54:18.632206000Z
+00:00:00.000173 main     Build Type: release
+00:00:00.000174 main     OS Product: Linux
+00:00:00.000174 main     OS Release: 5.9.14-arch1-1
+00:00:00.000174 main     OS Version: #1 SMP PREEMPT Sat, 12 Dec 2020 14:37:12 +0000
+00:00:00.000185 main     DMI Product Name: B365 M AORUS ELITE
+00:00:00.000188 main     DMI Product Version: Default string
+00:00:00.000191 main     Firmware type: UEFI
+00:00:00.000974 main     Secure Boot: Disabled
+00:00:00.000993 main     Host RAM: 15952MB (15.5GB) total, 15215MB (14.8GB) available
+00:00:00.000995 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000995 main     Process ID: 1574
+00:00:00.000995 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001773 main     IPC socket path: /tmp/.vbox-root-ipc/ipcd
+00:00:00.105757 nspr-2   VirtualBox: object creation starts
+00:00:00.105925 nspr-2   Home directory: '/root/.config/VirtualBox'
+00:00:00.106170 nspr-2   Loading settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.108718 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.110057 nspr-2   HostDnsMonitor: initializing
+00:00:00.110594 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.110628 nspr-2   NAT: resolv.conf: FIXME: ignoring IPv6 zone %eno1
+00:00:00.110635 nspr-2   NAT: resolv.conf: nameserver fe80::1
+00:00:00.110657 nspr-2   HostDnsMonitor: updating information
+00:00:00.110690 nspr-2   HostDnsMonitor: old information
+00:00:00.110709 nspr-2     no server entries
+00:00:00.110716 nspr-2     no domain set
+00:00:00.110721 nspr-2     no search string entries
+00:00:00.110727 nspr-2   HostDnsMonitor: new information
+00:00:00.110732 nspr-2     server 1: 192.168.1.1
+00:00:00.110739 nspr-2     server 2: fe80::1%eno1
+00:00:00.110746 nspr-2     no domain set
+00:00:00.110751 nspr-2     no search string entries
+00:00:00.116171 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.116388 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.117672 nspr-2   VirtualBox: object created
+00:06:50.874877 createBase Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:51.443825 nspr-3   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:06:51.450349 nspr-4   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:06:51.452982 nspr-4   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:51.465208 nspr-3   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:51.471474 nspr-4   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:08:02.436782 nspr-3   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:08:03.690733 nspr-3   Launched VM: 536947344 pid: 1761 (0x6e1) frontend: GUI/Qt name: win10
+00:08:04.262507 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:08:04.309793 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:08:22.884494 nspr-5   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:22.891140 nspr-5   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:27.028855 nspr-4   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:27.032022 nspr-4   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:30:07.449054 nspr-3   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:30:07.468897 nspr-7   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:30:07.483675 nspr-8   Saving settings file "/root/VirtualBox VMs/win10/win10.vbox" with version "1.15-linux"
+00:30:11.181096 nspr-8   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:30:11.196855 nspr-4   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:30:11.199619 nspr-6   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:30:11.202695 nspr-8   Saving settings file "/root/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:30:16.722612 main     VirtualBox: object deletion starts
+00:30:16.722685 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/root/VirtualBox VMs/win10/win10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:30:16.723430 main     HostDnsMonitor: shutting down ...
+00:30:16.735557 main     HostDnsMonitor: shut down
+00:30:16.966501 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:30:21.748910 main     {00007f5f3c019750} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:30:21.749055 main     VirtualBox: object deleted
